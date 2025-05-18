@@ -27,7 +27,7 @@
 [![Rider](https://github.com/JetBrains/logos/blob/master/web/rider/rider.svg)](https://www.jetbrains.com/rider/)
 [![RubyMine](https://github.com/JetBrains/logos/blob/master/web/rubymine/rubymine.svg)](https://www.jetbrains.com/rubymine/)
 [![WebStorm](https://github.com/JetBrains/logos/blob/master/web/webstorm/webstorm.svg)](https://www.jetbrains.com/webstorm/)
-[![Android Studio](./img/android-studio.svg)](https://developer.android.com/studio)
+[![Android Studio](./img/android-studio.png)](https://developer.android.com/studio)
 
 <!-- Plugin description -->
 ## Installation
